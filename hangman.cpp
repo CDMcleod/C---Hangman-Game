@@ -2,9 +2,7 @@
 Programmer: Connor Drayden McLeod
 Program: Hangman game
 Creation date: April 18th, 2018
-Last Modified: 4/28/2019
-CSCI Course: CSCI 235- Procedural Programming
-Grade Reicieved: B
+Last Modified: 4/28/2021
 Design Comments: Readme.txt
 */
 #include<iostream>
